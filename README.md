@@ -9,3 +9,4 @@
 ## How
 - To be updated by cohorts as a living guide.
 - Brief, specific, objective.
+- Infographics welcome.
