@@ -1,13 +1,13 @@
 # Final Project
 
 ## When?
-- The Final Two Weeks (Weeks 11 & 12)
+- The Final Two Weeks (Weeks 11 & 12).
 
 ## What?
-- Whatever your team of 4 or 5 decides on
+- Whatever your team of 4 or 5 decides on.
 
 ## How?
-- Friday week 10, you’ll all brainstorm your ideas on a whiteboard, which will then be grouped into categories by a coach.
+- Friday week 10, you all brainstorm your ideas on a whiteboard, which will then be grouped into categories by a coach.
 - Everyone then gets a 1st and 2nd choice of the categories, and you are grouped based on those choices.
 - You find out your group on week 11 Monday, and then you decide what your project is.
 - You can change category if your team agrees to it.
